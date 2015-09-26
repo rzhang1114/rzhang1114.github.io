@@ -5,12 +5,12 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
-  color: #606c71; }
+  color: ###FFB6C1; }
 
 a {
-  color: #1e6bb8;
+  color: ##FFB6C1;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -72,8 +72,10 @@ a {
     padding: 2rem 1rem; } }
 
 .project-name {
+
   margin-top: 0;
   margin-bottom: 0.1rem; }
+  color: #FFB6C1
 
 @media screen and (min-width: 64em) {
   .project-name {
